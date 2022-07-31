@@ -9,6 +9,7 @@
 .container-1 {
     display: flex;
     background-color: #f4f4f4;
+    height: 600px;
 }
 
 .container-1 div {
@@ -16,6 +17,7 @@
     font-family: 'Open Sans', sans-serif;
     width: 100px;
     height: 100px;
+    justify-content: center;
    
 }
 
