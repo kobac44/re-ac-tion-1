@@ -6,7 +6,7 @@
 }
 
 
-.container-1 {
+.container-1  {
     display: flex;
     background-color: #f4f4f4;
     height: 600px;
@@ -21,19 +21,23 @@
    
 }
 
-.boxes-1 {
+div.item-boxee {
+    display: flex;
+}
+
+div.Boxee-1 {
     flex: 1;
     background-color: rgb(247, 171, 17);
     color: #fff;
 }
 
-.boxes-2 {
+div.Boxee-2 {
     flex: 1;
     background-color: rgb(59, 186, 195);
     color: #fff;
 }
 
-.boxes-3 {
+div.Boxee-3 {
     flex: 1;
     background-color: rgb(9, 9, 9);
     color: #fff;
